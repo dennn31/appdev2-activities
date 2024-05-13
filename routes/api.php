@@ -23,7 +23,7 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 Route::get('/app',function(){
 // 1. SELECT * FROM students;
-    $students=DB::table('students')->where('grade', 10)->get();
+    $students=DB::table('students')->get();
     return response()->json($students);
 });
 
