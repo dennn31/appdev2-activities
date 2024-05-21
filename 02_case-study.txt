@@ -1,0 +1,25 @@
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering a cutting-edge software solution to our 
+users and clients. The project was meticulously planned with a target launch date of June 1. However, as the deadline approaches, 
+it becomes apparent that several tasks are still in progress, and there are unresolved bugs that need attention. The testing process, 
+crucial for ensuring product quality, has not yet begun. As a software engineer involved in the project, what aspects could have been 
+handled better to prevent the delays and issues experienced, such as incomplete tasks, unresolved bugs, and a delayed testing process?
+
+
+For this activity, evaluate the situation and offer your suggestions on areas where improvements could have been made.
+
+
+ANSWER:
+1. Early Testing and Bug Tracking
+    a. Start Testing Early: Begin testing the software as soon as parts of it are ready, instead of waiting until the end. 
+    This helps catch and fix bugs early, making the final testing phase smoother.
+
+    b. Track Bugs: Use a tool to log and prioritize bugs as they are found. Fix the most critical bugs first to prevent them 
+    from causing bigger issues later on.
+
+
+2. Realistic Scheduling and Task Management
+    a. Break Down Tasks: Divide the project into smaller tasks with clear deadlines. This makes it easier to track progress 
+    and ensures that all team members know what to do.
+
+    b. Set Realistic Deadlines: Base your deadlines on how long similar tasks took in past projects. This helps avoid 
+    overestimating how quickly work can be completed and reduces the risk of falling behind.
